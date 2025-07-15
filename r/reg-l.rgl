@@ -1,0 +1,7 @@
+# Prints a string
+! "Hello, World!"
+
+# Shows a message box on the regulator
+meld "Hello, World!"
+
+# For the UDM version look in udm.udm
