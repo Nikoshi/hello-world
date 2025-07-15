@@ -1,0 +1,6 @@
+# UDM is an extended version of REG-L, which supports custom subroutines, graphics and other advanced features like custom menues for customers
+
+# Shows a message box once the udm is loaded onto the device
+<UDM_INIT>
+  meld "Hello, World!"
+</>
